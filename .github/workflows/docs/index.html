@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Altın İhale Akışı</title>
+<style>
+  :root { --bg:#0f1115; --card:#1a1e26; --gold:#e8b842; --txt:#e6e6e6; --dim:#8a919e; }
+  * { box-sizing:border-box; margin:0; }
+  body { background:var(--bg); color:var(--txt); font:15px/1.45 -apple-system,system-ui,sans-serif; padding:14px; }
+  h1 { font-size:19px; color:var(--gold); margin-bottom:2px; }
+  .meta { color:var(--dim); font-size:12px; margin-bottom:12px; }
+  .tabs { display:flex; gap:6px; margin-bottom:12px; flex-wrap:wrap; }
+  .tab { border:1px solid #333; border-radius:16px; padding:5px 12px; font-size:13px; color:var(--dim); background:none; }
+  .tab.on { color:var(--gold); border-color:var(--gold); }
+  .row { background:var(--card); border-radius:10px; padding:11px 12px; margin-bottom:8px; display:block; text-decoration:none; color:var(--txt); }
+  .row b { font-size:14px; display:block; margin-bottom:3px; }
+  .sub { color:var(--dim); font-size:12.5px; }
+  .flag { margin-right:5px; }
+  .dl { color:var(--gold); font-weight:600; }
+  .err { background:#3a1f1f; border-radius:8px; padding:10px; font-size:13px; margin-bottom:10px; }
+  .empty { color:var(--dim); text-align:center; margin-top:40px; }
+</style>
+</head>
+<body>
+<h1>⚡ Altın İhale Akışı</h1>
+<div class="meta" id="meta">yükleniyor…</div>
+<div class="tabs" id="tabs"></div>
+<div id="feed"></div>
+
+<script>
+const FLAGS = {POL:"🇵🇱",CZE:"🇨🇿",SVK:"🇸🇰",ROU:"🇷🇴",HUN:"🇭🇺",BEL:"🇧🇪",NLD:"🇳🇱",DEU:"🇩🇪",FRA:"🇫🇷",LTU:"🇱🇹",LVA:"🇱🇻",EST:"🇪🇪"};
+let DATA = null, active = "Hepsi";
+
+function daysLeft(d){
+  if(!d) return null;
+  const t = new Date(d) - new Date();
+  return Math.ceil(t/86400000);
+}
+function fmtVal(v,c){
+  if(!v) return "";
+  const n = Number(v);
+  const s = n>=1e6 ? (n/1e6).toFixed(1)+"M" : n>=1e3 ? Math.round(n/1e3)+"K" : n;
+  return ` · ${s} ${c||""}`;
+}
+function render(){
+  const feed = document.getElementById("feed");
+  feed.innerHTML = "";
+  (DATA.errors||[]).forEach(e=>{
+    const d = document.createElement("div");
+    d.className = "err";
+    d.textContent = "⚠ " + e.category + ": " + e.error;
+    feed.appendChild(d);
+  });
+  const items = DATA.items.filter(i => active==="Hepsi" || i.category===active);
+  if(!items.length){ feed.innerHTML += '<div class="empty">Bu filtrede ihale yok.</div>'; return; }
+  items.forEach(i=>{
+    const a = document.createElement("a");
+    a.className = "row"; a.href = i.url || "#"; a.target = "_blank";
+    const dl = daysLeft(i.deadline);
+    const dlTxt = dl===null ? "" : dl<0 ? " · kapandı" : ` · <span class="dl">son ${dl} gün</span>`;
+    a.innerHTML = `<b>${i.title||"(başlıksız)"}</b>
+      <span class="sub"><span class="flag">${FLAGS[i.country]||i.country||""}</span>${i.buyer||"?"} · ${i.category}${fmtVal(i.value,i.currency)}${dlTxt}</span>`;
+    feed.appendChild(a);
+  });
+}
+function tabs(){
+  const cats = ["Hepsi", ...new Set(DATA.items.map(i=>i.category))];
+  const el = document.getElementById("tabs");
+  el.innerHTML = "";
+  cats.forEach(c=>{
+    const b = document.createElement("button");
+    b.className = "tab" + (c===active?" on":"");
+    b.textContent = c;
+    b.onclick = ()=>{ active=c; tabs(); render(); };
+    el.appendChild(b);
+  });
+}
+fetch("data.json?_="+Date.now())
+  .then(r=>r.json())
+  .then(d=>{
+    DATA = d;
+    document.getElementById("meta").textContent =
+      "Son tarama: " + new Date(d.generated).toLocaleString("tr-TR") + " · " + d.items.length + " ihale";
+    tabs(); render();
+  })
+  .catch(()=>{ document.getElementById("meta").textContent = "data.json bulunamadı — ilk tarama henüz çalışmamış olabilir (Actions sekmesinden elle tetikle)."; });
+</script>
+</body>
+</html>
