@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-28T07:59:03.389049Z",
+ "generated": "2026-07-29T08:03:50.113737Z",
  "items": [
   {
    "category": "Kurumsal Tekstil",
@@ -36,6 +36,39 @@
    "currency": "PLN",
    "published": "2026-07-23+02:00",
    "url": "https://ted.europa.eu/en/notice/-/detail/509265-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "504956-2026",
+   "title": "Csehország – Lakberendezési cikkek – Realizace expozice POHO Park Gabriela",
+   "buyer": "Moravskoslezský kraj",
+   "country": "CZE",
+   "cpv": [
+    "39200000",
+    "39154000",
+    "39100000",
+    "32321200",
+    "32321300",
+    "31500000",
+    "32321300",
+    "31500000",
+    "39200000",
+    "32321200",
+    "39154000",
+    "39154000",
+    "39100000",
+    "39154000",
+    "32321200",
+    "32321300",
+    "31500000",
+    "39154000",
+    "31500000"
+   ],
+   "deadline": "2026-07-30+02:00",
+   "value": "4899250",
+   "currency": "CZK",
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/504956-2026"
   },
   {
    "category": "Kurumsal Tekstil",
@@ -215,123 +248,57 @@
   },
   {
    "category": "Mobilya & Yatak",
-   "id": "502285-2026",
-   "title": "Lengyelország – Irodabútor – Dostawa mebli biurowych i tapicerowanych, zabudów medycznych ze stali nierdzewnej i wyposażenia magazynów na potrzeby Centrum Kardiologii Ambulatoryjnej Narodowego Instytutu Kardiologii Stefana Kardynała Wyszyńskiego - Państwowego Instytutu Badawczego",
-   "buyer": "Narodowy Instytut Kardiologii Stefana Kardynała Wyszyńskiego - Państwowy Instytut Badawczy",
+   "id": "507525-2026",
+   "title": "Lengyelország – Építési munkák – Wykonanie robót budowlanych na odcinku Wejherowo – Choczewo w ramach projektu pn.: „Zapewnienie dostępu kolejowego do elektrowni jądrowej Lubiatowo – Kopalino”",
+   "buyer": "PKP Polskie Linie Kolejowe S.A.",
    "country": "POL",
    "cpv": [
-    "39130000",
-    "39140000",
-    "39173000",
-    "33192160",
-    "39130000",
-    "39140000",
-    "39150000",
-    "39173000",
-    "39711100",
-    "33192160",
-    "39150000",
-    "45421153",
-    "39112000",
-    "39113200",
-    "39113100",
-    "39100000",
-    "39150000",
-    "39151300"
-   ],
-   "deadline": "2026-07-31+02:00",
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502285-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "503163-2026",
-   "title": "Lengyelország – Stadion építése – Modernizacja i rozbudowa infrastruktury sportowej stadionu miejskiego w Grodzisku Mazowieckim",
-   "buyer": "Gmina Grodzisk Mazowiecki",
-   "country": "POL",
-   "cpv": [
-    "45212224",
     "45000000",
-    "45111200",
-    "45212200",
-    "45262420",
-    "39111000",
-    "39112000",
-    "45212224",
-    "45000000",
-    "45111200",
-    "45212200",
-    "45262420",
-    "39111000",
-    "39112000"
-   ],
-   "deadline": "2026-07-31+02:00",
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/503163-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "503206-2026",
-   "title": "Lengyelország – Táblaszámítógépek – Dostawa i montaż Mobilnych Pracowni Komputerowych",
-   "buyer": "Naukowa i Akademicka Sieć Komputerowa - Państwowy Instytut Badawczy",
-   "country": "POL",
-   "cpv": [
-    "30213200",
-    "72400000",
+    "71322000",
+    "45200000",
+    "45230000",
+    "45234100",
+    "45234113",
+    "45234116",
+    "45234115",
+    "45231400",
+    "45234000",
+    "45234000",
+    "31213300",
+    "31321700",
+    "31682530",
+    "33124100",
+    "34632000",
+    "34632200",
+    "39130000",
+    "45231220",
+    "45100000",
+    "45110000",
+    "45231000",
+    "45231300",
+    "45231600",
+    "45232300",
+    "45232320",
+    "45232410",
+    "45310000",
+    "45312100",
+    "45312200",
+    "45312300",
+    "45314100",
+    "45314300",
+    "45314000",
+    "45400000",
+    "45500000",
     "48000000",
-    "30231300",
-    "30192800",
-    "72611000",
-    "39134000",
-    "30213200",
-    "72400000",
-    "48000000",
-    "30231300",
-    "30192800",
-    "72611000",
-    "39134000"
+    "77211400",
+    "45234000",
+    "45000000"
    ],
    "deadline": "2026-08-04+02:00",
    "value": null,
    "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/503206-2026"
-  },
-  {
-   "category": "Kurumsal Tekstil",
-   "id": "504478-2026",
-   "title": "Lengyelország – Bútorok – Dostawa wyposażenia w ramach realizacji inwestycji pn. „Budowa Zakładu Opiekuńczo-Leczniczego w celu poprawy dostępności do opieki długoterminowej na terenie powiatu stargardzkiego”",
-   "buyer": "SAMODZIELNY PUBLICZNY WIELOSPECJALISTYCZNY ZAKŁAD OPIEKI ZDROWOTNEJ W STARGARDZIE",
-   "country": "POL",
-   "cpv": [
-    "39100000",
-    "39700000",
-    "34928480",
-    "39512000",
-    "42995000",
-    "44410000",
-    "39141300",
-    "39700000",
-    "39141300",
-    "39512000",
-    "44410000",
-    "39100000",
-    "39141300",
-    "34928480",
-    "39515400",
-    "44410000",
-    "42995000",
-    "44410000"
-   ],
-   "deadline": "2026-08-05+02:00",
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/504478-2026"
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/507525-2026"
   },
   {
    "category": "Kurumsal Tekstil",
@@ -397,6 +364,54 @@
    "currency": null,
    "published": "2026-07-27+02:00",
    "url": "https://ted.europa.eu/en/notice/-/detail/516220-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "505142-2026",
+   "title": "Lengyelország – Különféle bútorok és felszerelések – Dostawa wraz z rozładowaniem, wniesieniem, montażem osprzętu szatniowego dla Modułów 3-5 CZSK na potrzeby CZSK w ramach projektu pn. Budowa Centralnego Zintegrowanego Szpitala Klinicznego w Poznaniu - centrum medycyny interwencyjnej",
+   "buyer": "Uniwersytecki Szpital Kliniczny w Poznaniu",
+   "country": "POL",
+   "cpv": [
+    "39150000",
+    "39150000"
+   ],
+   "deadline": "2026-08-05+02:00",
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/505142-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "506109-2026",
+   "title": "Lettország – Bútorok – Mēbeļu un aprīkojuma piegāde un uzstādīšana Latvijas Universitātes Zobārstniecības un acu klīnikas vajadzībām",
+   "buyer": "Latvijas Universitāte",
+   "country": "LVA",
+   "cpv": [
+    "39100000",
+    "39100000"
+   ],
+   "deadline": "2026-08-05+02:00",
+   "value": "120000.00",
+   "currency": "EUR",
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/506109-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "505013-2026",
+   "title": "Litvánia – Kiállítási bútor – Muziejaus nuolatinės ekspozicijos įrengimas",
+   "buyer": "Lietuvos nacionalinis muziejus (PV)",
+   "country": "LTU",
+   "cpv": [
+    "39154000",
+    "39154000"
+   ],
+   "deadline": "2026-08-06+03:00",
+   "value": "171000",
+   "currency": "EUR",
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/505013-2026"
   },
   {
    "category": "Kurumsal Tekstil",
@@ -600,6 +615,24 @@
    "url": "https://ted.europa.eu/en/notice/-/detail/519112-2026"
   },
   {
+   "category": "Mobilya & Yatak",
+   "id": "505901-2026",
+   "title": "Németország – Beépített bútor szerelése – Generalsanierung Hogy | Fachklassenausstattung Naturwissenschaften inkl. Wartung",
+   "buyer": "Stadtverwaltung Göppingen",
+   "country": "DEU",
+   "cpv": [
+    "45421153",
+    "45421153",
+    "45421153",
+    "39180000"
+   ],
+   "deadline": "2026-08-12+02:00",
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/505901-2026"
+  },
+  {
    "category": "Yol Tuzu",
    "id": "520109-2026",
    "title": "Lengyelország – Útszóró só – Dostawa soli drogowej na potrzeby prowadzenia akcji zimowego utrzymania dróg wojewódzkich w sezonie 2026/2027– zwalczanie śliskości na drogach wojewódzkich",
@@ -621,6 +654,44 @@
    "currency": null,
    "published": "2026-07-28+02:00",
    "url": "https://ted.europa.eu/en/notice/-/detail/520109-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "506790-2026",
+   "title": "Litvánia – Fizikoterápiás eszközök – Reabilitacijos ir aktyvios terapijos įranga (12773)",
+   "buyer": "VšĮ Vilniaus universiteto ligoninė Santaros klinikos (PV)",
+   "country": "LTU",
+   "cpv": [
+    "33155000",
+    "33141720",
+    "37441300",
+    "39162200",
+    "33155000",
+    "33155000",
+    "33155000",
+    "33155000",
+    "33155000",
+    "33141720",
+    "37441300",
+    "39162200",
+    "33141720",
+    "37441300",
+    "39162200",
+    "33141720",
+    "37441300",
+    "39162200",
+    "33141720",
+    "37441300",
+    "39162200",
+    "33141720",
+    "37441300",
+    "39162200"
+   ],
+   "deadline": "2026-08-13+03:00",
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/506790-2026"
   },
   {
    "category": "Kurumsal Tekstil",
@@ -661,23 +732,23 @@
   },
   {
    "category": "Mobilya & Yatak",
-   "id": "502252-2026",
-   "title": "Szlovákia – Bútorok – Nábytok (SOŠ OaS Prievidza)",
-   "buyer": "Trenčiansky samosprávny kraj",
-   "country": "SVK",
+   "id": "507075-2026",
+   "title": "Németország – Bútorok – Notleitstelle Kafkastraße, U-Bahn Nürnberg: Vergabepaket 53a - Leitstelle Möblierung",
+   "buyer": "Stadt Nürnberg, U-Bahnbauamt",
+   "country": "DEU",
    "cpv": [
     "39100000",
-    "39160000",
-    "30195900",
+    "39130000",
+    "39134000",
     "39100000",
-    "39160000",
-    "30195900"
+    "39130000",
+    "39134000"
    ],
-   "deadline": "2026-08-18+02:00",
-   "value": "55905.33",
-   "currency": "EUR",
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502252-2026"
+   "deadline": "2026-08-17+02:00",
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/507075-2026"
   },
   {
    "category": "Kurumsal Tekstil",
@@ -1067,30 +1138,57 @@
   },
   {
    "category": "Mobilya & Yatak",
-   "id": "502955-2026",
-   "title": "Lengyelország – Laboratóriumi, optikai és precíziós felszerelések (kivéve szemüvegek) – Zakup sprzętu badawczego i stołów składanych dla Wydziału Biologii UW",
-   "buyer": "Uniwersytet Warszawski",
-   "country": "POL",
+   "id": "506207-2026",
+   "title": "Csehország – Bútorok – Dodávka nábytku a interiérového vybavení – OPF SU Karviná 2026",
+   "buyer": "Slezská univerzita v Opavě",
+   "country": "CZE",
    "cpv": [
-    "38000000",
-    "38540000",
-    "38430000",
-    "38416000",
-    "38510000",
-    "39121200",
-    "38540000",
-    "38430000",
-    "38540000",
-    "38540000",
-    "38416000",
-    "38510000",
-    "39121200"
+    "39100000",
+    "39160000",
+    "39130000",
+    "39156000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39130000",
+    "39156000",
+    "39160000",
+    "39160000",
+    "39130000",
+    "39160000",
+    "39130000"
    ],
    "deadline": "2026-08-20+02:00",
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502955-2026"
+   "value": "764000",
+   "currency": "CZK",
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/506207-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "507384-2026",
+   "title": "Németország – Irodabútor – Abschluss einer Rahmenvereinbarung für 4 Jahre zur Belieferung der Universitätsmedizin Halle (Saale) mit Nicht-Medizinischem Mobiliar (LOS 1 Bürodrehstuhl; LOS 2 Bürostühle (Vierfuß-Stuhl); LOS 3 Büromöbelsystem (Tische, Akustik-Schutz Schränke, Container)",
+   "buyer": "Universitätsklinikum Halle (Saale) AöR",
+   "country": "DEU",
+   "cpv": [
+    "39130000",
+    "39112000",
+    "39120000",
+    "30193700",
+    "39130000",
+    "39130000",
+    "39130000",
+    "39112000",
+    "39112000",
+    "39120000",
+    "39121000",
+    "30193700"
+   ],
+   "deadline": "2026-08-20+02:00",
+   "value": "148000",
+   "currency": "EUR",
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/507384-2026"
   },
   {
    "category": "Yol Tuzu",
@@ -1147,54 +1245,6 @@
    "url": "https://ted.europa.eu/en/notice/-/detail/507945-2026"
   },
   {
-   "category": "Mobilya & Yatak",
-   "id": "502513-2026",
-   "title": "Csehország – Bútorok – Hotel Květnice – interiér – 2. část",
-   "buyer": "Město Tišnov",
-   "country": "CZE",
-   "cpv": [
-    "39100000",
-    "39100000"
-   ],
-   "deadline": "2026-08-21+02:00",
-   "value": "6840390",
-   "currency": "CZK",
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502513-2026"
-  },
-  {
-   "category": "Yol Tuzu",
-   "id": "503435-2026",
-   "title": "Franciaország – Útszóró só – Fourniture, transport et livraison de sel de déneigement pour les services de Nantes Métropole",
-   "buyer": "Nantes Métropole",
-   "country": "FRA",
-   "cpv": [
-    "34927100",
-    "34927100"
-   ],
-   "deadline": "2026-08-21+02:00",
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/503435-2026"
-  },
-  {
-   "category": "Yol Tuzu",
-   "id": "504232-2026",
-   "title": "Csehország – Útszóró só – Posypová sůl 2026 - 2027",
-   "buyer": "Technické služby města Česká Lípa s.r.o.",
-   "country": "CZE",
-   "cpv": [
-    "34927100",
-    "34927100"
-   ],
-   "deadline": "2026-08-21+02:00",
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/504232-2026"
-  },
-  {
    "category": "Yol Tuzu",
    "id": "508718-2026",
    "title": "Németország – Útszóró só – Lieferung von Auftausalz für das Interkommunale Zentrallager (IKZ) für Wiesbaden und weitere dezentrale Läger von Rhein-Main-Kommunen im Verbund",
@@ -1209,6 +1259,55 @@
    "currency": null,
    "published": "2026-07-23+02:00",
    "url": "https://ted.europa.eu/en/notice/-/detail/508718-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "506144-2026",
+   "title": "Románia – Bútorok – Contract de furnizare mobilier din pal și obiecte de inventar",
+   "buyer": "MINISTERUL APARARII - U.M 02460",
+   "country": "ROU",
+   "cpv": [
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000",
+    "39100000"
+   ],
+   "deadline": "2026-08-21+03:00",
+   "value": "346117",
+   "currency": "RON",
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/506144-2026"
   },
   {
    "category": "Kurumsal Tekstil",
@@ -1339,101 +1438,6 @@
    "url": "https://ted.europa.eu/en/notice/-/detail/514522-2026"
   },
   {
-   "category": "Mobilya & Yatak",
-   "id": "501904-2026",
-   "title": "Franciaország – Épületbővítési munka – Extension de l'aérogare commerciale et des bureaux administratifs de l'aéroport Figari Sud Corse",
-   "buyer": "Etablissement Public du Commerce et de l'Industrie de Corse",
-   "country": "FRA",
-   "cpv": [
-    "45262800",
-    "45262800",
-    "45262800",
-    "45262800",
-    "45262800",
-    "45262800",
-    "45262800",
-    "45262800",
-    "45262800",
-    "45262800",
-    "45262800",
-    "45262800",
-    "45262800",
-    "45262800",
-    "45262800",
-    "45262800",
-    "45262800",
-    "45112500",
-    "45223210",
-    "45261420",
-    "45421000",
-    "45421000",
-    "45410000",
-    "45441000",
-    "45430000",
-    "44810000",
-    "42416100",
-    "09310000",
-    "44115220",
-    "45330000",
-    "34928471",
-    "39100000"
-   ],
-   "deadline": "2026-08-24+02:00",
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/501904-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "502427-2026",
-   "title": "Lengyelország – Különféle berendezések – Kinotechnika - wyposażenie pomieszczeń sali kinowej, sali teatralnej, studio, foyer sal i warsztatowych",
-   "buyer": "Miejski Dom Kultury w Stalowej Woli",
-   "country": "POL",
-   "cpv": [
-    "39300000",
-    "32340000",
-    "44320000",
-    "38652000",
-    "38653400",
-    "32333200",
-    "32342400",
-    "51120000",
-    "30200000",
-    "32342400",
-    "32342410",
-    "38652100",
-    "31527260",
-    "33195100",
-    "39100000",
-    "48000000",
-    "44112200",
-    "39300000",
-    "32340000",
-    "44320000",
-    "38652000",
-    "38653400",
-    "32342400",
-    "32333200",
-    "51120000",
-    "30200000",
-    "32342400",
-    "32342410",
-    "38652100",
-    "31527260",
-    "32342400",
-    "33195100",
-    "48000000",
-    "39100000",
-    "44112200"
-   ],
-   "deadline": "2026-08-24+02:00",
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502427-2026"
-  },
-  {
    "category": "Yol Tuzu",
    "id": "513891-2026",
    "title": "Lengyelország – Só és tiszta nátrium-klorid – Dostawa soli drogowej w 2026 i 2027 roku do zimowego utrzymania dróg wojewódzkich",
@@ -1450,30 +1454,6 @@
    "currency": null,
    "published": "2026-07-24+02:00",
    "url": "https://ted.europa.eu/en/notice/-/detail/513891-2026"
-  },
-  {
-   "category": "Kurumsal Tekstil",
-   "id": "504916-2026",
-   "title": "Németország – Asztalosipari munka – Behänge Innen",
-   "buyer": "Deutsche Rentenversicherung Nordbayern",
-   "country": "DEU",
-   "cpv": [
-    "45421000",
-    "44115810",
-    "45421100",
-    "39515000",
-    "39515200",
-    "45421000",
-    "44115810",
-    "45421100",
-    "39515000",
-    "39515200"
-   ],
-   "deadline": "2026-08-25+02:00",
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/504916-2026"
   },
   {
    "category": "Kurumsal Tekstil",
@@ -1512,77 +1492,6 @@
    "currency": null,
    "published": "2026-07-24+02:00",
    "url": "https://ted.europa.eu/en/notice/-/detail/514963-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "502499-2026",
-   "title": "Csehország – Épületszerelési munka – ERDF KVALITA ZČU - ZČU v Plzni – „Rekonstrukce posluchárny UP 108“, Univerzitní 22, Plzeň (3.vyhlášení)",
-   "buyer": "Západočeská univerzita v Plzni",
-   "country": "CZE",
-   "cpv": [
-    "45300000",
-    "45214400",
-    "39150000",
-    "45300000",
-    "45214400",
-    "39150000"
-   ],
-   "deadline": "2026-08-25+02:00",
-   "value": "28055100",
-   "currency": "CZK",
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502499-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "502823-2026",
-   "title": "Lengyelország – Teljes vagy részleges magas- és mélyépítési munka – Rozbudowa i modernizacja Oczyszczalni Ścieków „Dębe”",
-   "buyer": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m. st. Warszawie S.A.",
-   "country": "POL",
-   "cpv": [
-    "45200000",
-    "45231300",
-    "45100000",
-    "45230000",
-    "71320000",
-    "45331000",
-    "45311000",
-    "45214610",
-    "38000000",
-    "39151000",
-    "45200000",
-    "45231300",
-    "45100000",
-    "45230000",
-    "71320000",
-    "45331000",
-    "45311000",
-    "45214610",
-    "38000000",
-    "39151000"
-   ],
-   "deadline": "2026-08-25+02:00",
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502823-2026"
-  },
-  {
-   "category": "Yol Tuzu",
-   "id": "501636-2026",
-   "title": "Lengyelország – Útszóró só – Dostawa soli drogowej do zimowego utrzymania dróg wojewódzkich w sezonie zimowym 2026/2027 w podziale na 2 zadania częściowe",
-   "buyer": "Województwo Świętokrzyskie - Świętokrzyski Zarząd Dróg Wojewódzkich w Kielcach",
-   "country": "POL",
-   "cpv": [
-    "34927100",
-    "34927100",
-    "34927100"
-   ],
-   "deadline": "2026-08-26+02:00",
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/501636-2026"
   },
   {
    "category": "Yol Tuzu",
@@ -1846,6 +1755,62 @@
   },
   {
    "category": "Kurumsal Tekstil",
+   "id": "525838-2026",
+   "title": "Lengyelország – Ülések, székek és kapcsolódó termékek, valamint tartozékok – Dostawa sprzętu kwaterunkowego z podziałem na 5 części – postępowanie nr 25/D",
+   "buyer": "Rejonowy Zarząd Infrastruktury w Olsztynie",
+   "country": "POL",
+   "cpv": [
+    "39110000",
+    "39143110",
+    "39100000",
+    "39141300",
+    "39131100",
+    "39522520",
+    "39121200",
+    "39113200",
+    "39113000",
+    "39143110",
+    "39100000",
+    "39141300",
+    "39522520",
+    "39131100",
+    "39121200",
+    "39113200"
+   ],
+   "deadline": "2026-09-02+02:00",
+   "value": "1191490.4",
+   "currency": "PLN",
+   "published": "2026-07-29+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/525838-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "506018-2026",
+   "title": "Magyarország – Oktatási kellékek – SZTE mentőtiszti és szülésznői képzés eszközök II.",
+   "buyer": "Szegedi Tudományegyetem",
+   "country": "HUN",
+   "cpv": [
+    "39162110",
+    "34152000",
+    "34152000",
+    "34152000",
+    "34152000",
+    "39162110",
+    "33157000",
+    "34152000",
+    "33194110",
+    "33192120",
+    "34152000",
+    "35125100"
+   ],
+   "deadline": "2026-09-03+02:00",
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/506018-2026"
+  },
+  {
+   "category": "Kurumsal Tekstil",
    "id": "507738-2026",
    "title": "Belgium – Harisnya – Raamovereenkomst voor de aankoop van preventieve anti-trombose kousen, medische compressiekousen en sokjes met antislip",
    "buyer": "VZW Maria Middelares",
@@ -1866,22 +1831,6 @@
    "currency": null,
    "published": "2026-07-22+02:00",
    "url": "https://ted.europa.eu/en/notice/-/detail/507738-2026"
-  },
-  {
-   "category": "Yol Tuzu",
-   "id": "501830-2026",
-   "title": "Szlovákia – Útszóró só – CHEMICKÝ POSYPOVÝ MATERIÁL ( 2026 )",
-   "buyer": "Regionálna správa a údržba ciest Nitra a.s.",
-   "country": "SVK",
-   "cpv": [
-    "34927100",
-    "34927100"
-   ],
-   "deadline": "2026-09-07+02:00",
-   "value": "1517500",
-   "currency": "EUR",
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/501830-2026"
   },
   {
    "category": "Yol Tuzu",
@@ -2100,317 +2049,77 @@
   },
   {
    "category": "Kurumsal Tekstil",
-   "id": "502892-2026",
-   "title": "Hollandia – Egészségügyi adagolóautomaták – Sanitaire voorziening",
-   "buyer": "Brabant Water N.V.",
-   "country": "NLD",
+   "id": "522881-2026",
+   "title": "Franciaország – Szennyesgyűjtési szolgáltatások – Location et entretien de linge hôtelier et de vêtements de travail pour les 4 EHPAD gérés par le CCAS de Lyon",
+   "buyer": "CCAS DE LYON",
+   "country": "FRA",
    "cpv": [
-    "42968200",
-    "33760000",
-    "33770000",
-    "39224310",
-    "39514300",
-    "39514400",
-    "42968300",
-    "42968200",
-    "33760000",
-    "33770000",
-    "39224310",
-    "39514300",
-    "39514400",
-    "42968300"
+    "98311000",
+    "18100000",
+    "39518000",
+    "98310000"
    ],
-   "deadline": "2026-09-22Z",
-   "value": "900000",
+   "deadline": "2026-09-23+01:00",
+   "value": "600000",
    "currency": "EUR",
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502892-2026"
+   "published": "2026-07-29+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/522881-2026"
   },
   {
    "category": "Mobilya & Yatak",
-   "id": "502298-2026",
-   "title": "Hollandia – Irodabútor – Thuiswerkplekken",
-   "buyer": "Stedin",
-   "country": "NLD",
+   "id": "506576-2026",
+   "title": "Franciaország – Irodabútor – Fourniture de mobiliers et matériels de bureau destinés à favoriser le maintien dans l'emploi des agents du Conseil Départemental du Var en situation de handicap et prestations de réparations accessoires",
+   "buyer": "CONSEIL DEPARTEMENTAL DU VAR",
+   "country": "FRA",
    "cpv": [
     "39130000",
-    "39110000",
-    "39121100",
-    "50850000",
-    "51620000",
+    "39150000",
     "39130000",
-    "39110000",
-    "39121100",
-    "50850000",
-    "51620000"
+    "39150000"
    ],
-   "deadline": "2026-10-02Z",
-   "value": "3120000",
+   "deadline": "2026-09-24+02:00",
+   "value": "720000",
    "currency": "EUR",
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502298-2026"
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/506576-2026"
   },
   {
    "category": "Mobilya & Yatak",
-   "id": "501583-2026",
-   "title": "Hollandia – Bútorok – DAS Kantinemeubilair",
-   "buyer": "Stichting Protestants-Christelijk Primair Onderwijs Midden-Brabant",
+   "id": "506498-2026",
+   "title": "Hollandia – Bútorok – Interieur (los en maatwerk) gemeenteraad Zutphen",
+   "buyer": "Gemeente Zutphen",
    "country": "NLD",
    "cpv": [
     "39100000",
     "39100000"
    ],
-   "deadline": null,
+   "deadline": "2026-09-24Z",
    "value": null,
    "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/501583-2026"
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/506498-2026"
   },
   {
    "category": "Mobilya & Yatak",
-   "id": "501590-2026",
-   "title": "Hollandia – Iskolabútor – DAS Meubilair - Schoolmeubilair Voortgezet Onderwijs",
-   "buyer": "Stichting Resonans",
-   "country": "NLD",
-   "cpv": [
-    "39160000",
-    "39160000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/501590-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "501640-2026",
-   "title": "Hollandia – Bútorok – DAS Vergader- en personeelsruimtemeubilair",
-   "buyer": "Stichting Prisma",
-   "country": "NLD",
-   "cpv": [
-    "39100000",
-    "39100000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/501640-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "501646-2026",
-   "title": "Hollandia – Bútorok – DAS Kantinemeubilair",
-   "buyer": "Stichting Zonova",
-   "country": "NLD",
-   "cpv": [
-    "39100000",
-    "39100000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/501646-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "501762-2026",
-   "title": "Hollandia – Bútorok – DAS Kantinemeubilair",
-   "buyer": "Stichting Katholiek Onderwijs Veluwe-Vallei",
-   "country": "NLD",
-   "cpv": [
-    "39100000",
-    "39100000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/501762-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "501816-2026",
-   "title": "Hollandia – Bútorok – DAS Vergader- en personeelsruimtemeubilair",
-   "buyer": "SPO WIJ de Venen",
-   "country": "NLD",
-   "cpv": [
-    "39100000",
-    "39100000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/501816-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "501846-2026",
-   "title": "Hollandia – Irodabútor – DAS Meubilair - Kantoormeubilair",
-   "buyer": "Stichting RENN4",
-   "country": "NLD",
-   "cpv": [
-    "39130000",
-    "39100000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/501846-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "501924-2026",
-   "title": "Hollandia – Iskolabútor – DAS Meubilair - Schoolmeubilair Voortgezet Onderwijs",
-   "buyer": "Stichting Openbaar Voortgezet Onderwijs Goeree-Overflakkee",
-   "country": "NLD",
-   "cpv": [
-    "39160000",
-    "39160000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/501924-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "501928-2026",
-   "title": "Hollandia – Bútorok – DAS Vergader- en personeelsruimtemeubilair",
-   "buyer": "Stichting Katholiek Onderwijs Veluwe-Vallei",
-   "country": "NLD",
-   "cpv": [
-    "39100000",
-    "39100000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/501928-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "501938-2026",
-   "title": "Hollandia – Iskolabútor – DAS Kantoormeubilair",
-   "buyer": "Stichting Resonans",
-   "country": "NLD",
-   "cpv": [
-    "39160000",
-    "39100000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/501938-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "501949-2026",
-   "title": "Hollandia – Bútorok – DAS Meubilair - Vergader- en personeelsruimte meubilair",
+   "id": "504985-2026",
+   "title": "Hollandia – Iskolabútor – DAS Meubilair - Schoolmeubilair Primair Onderwijs",
    "buyer": "Stichting Openbaar Onderwijs Houten",
    "country": "NLD",
    "cpv": [
-    "39100000",
-    "39100000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/501949-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "501962-2026",
-   "title": "Hollandia – Bútorok – DAS Kantoormeubilair",
-   "buyer": "Stichting Sint Albertus",
-   "country": "NLD",
-   "cpv": [
-    "39100000",
-    "39100000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/501962-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "501967-2026",
-   "title": "Hollandia – Bútorok – DAS Vergader- en personeelsruimtemeubilair",
-   "buyer": "Stichting Librijn Openbaar Onderwijs",
-   "country": "NLD",
-   "cpv": [
-    "39100000",
-    "39100000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/501967-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "501974-2026",
-   "title": "Hollandia – Iskolabútor – DAS Kantinemeubilair",
-   "buyer": "O.S.G. De Hogeberg",
-   "country": "NLD",
-   "cpv": [
     "39160000",
-    "39100000"
+    "39160000"
    ],
    "deadline": null,
    "value": null,
    "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/501974-2026"
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/504985-2026"
   },
   {
    "category": "Mobilya & Yatak",
-   "id": "502030-2026",
-   "title": "Hollandia – Bútorok – DAS Vergader- en personeelsruimte meubilair",
-   "buyer": "O.S.G. De Hogeberg",
-   "country": "NLD",
-   "cpv": [
-    "39100000",
-    "39100000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502030-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "502033-2026",
-   "title": "Hollandia – Bútorok – DAS Meubilair - Vergader- en personeelsruimte meubilair",
-   "buyer": "Stichting Resonans",
-   "country": "NLD",
-   "cpv": [
-    "39100000",
-    "39100000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502033-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "502118-2026",
-   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Voortgezet Onderwijs",
-   "buyer": "Stichting Levvel PI-scholen",
+   "id": "505104-2026",
+   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair Onderwijs",
+   "buyer": "Stichting Fedra",
    "country": "NLD",
    "cpv": [
     "39160000",
@@ -2419,301 +2128,225 @@
    "deadline": null,
    "value": null,
    "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502118-2026"
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/505104-2026"
   },
   {
    "category": "Mobilya & Yatak",
-   "id": "502193-2026",
-   "title": "Hollandia – Bútorok – DAS vergader- en personeelsruimtemeubilair",
-   "buyer": "Stichting Levvel PI-scholen",
+   "id": "505121-2026",
+   "title": "Hollandia – Iskolabútor – DAS Meubilair - Schoolmeubilair Primair Onderwijs",
+   "buyer": "Stichting Akkoord! primair openbaar",
    "country": "NLD",
    "cpv": [
-    "39100000",
-    "39100000"
+    "39160000",
+    "39160000"
    ],
    "deadline": null,
    "value": null,
    "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502193-2026"
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/505121-2026"
   },
   {
    "category": "Mobilya & Yatak",
-   "id": "502343-2026",
-   "title": "Hollandia – Iskolabútor – DAS Kantoormeubilair",
+   "id": "505252-2026",
+   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair Onderwijs",
+   "buyer": "Borgesius Stichting",
+   "country": "NLD",
+   "cpv": [
+    "39160000",
+    "39160000"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/505252-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "505323-2026",
+   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair Onderwijs",
+   "buyer": "Stichting voor Protestants Christelijk Primair Onderwijs De Vier Windstreken",
+   "country": "NLD",
+   "cpv": [
+    "39160000",
+    "39160000"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/505323-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "505446-2026",
+   "title": "Németország – Iskolabútor – Reparatur und Instandsetzung von Hörsaalgestühl",
+   "buyer": "Universitätsklinikum Köln AöR",
+   "country": "DEU",
+   "cpv": [
+    "39160000",
+    "39110000",
+    "50850000",
+    "39160000",
+    "39110000",
+    "50850000"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/505446-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "505484-2026",
+   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair Onderwijs",
+   "buyer": "Blosse",
+   "country": "NLD",
+   "cpv": [
+    "39160000",
+    "39160000"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/505484-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "505485-2026",
+   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair Onderwijs",
+   "buyer": "Florion",
+   "country": "NLD",
+   "cpv": [
+    "39160000",
+    "39160000"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/505485-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "505638-2026",
+   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair Onderwijs",
+   "buyer": "Stichting Prisma",
+   "country": "NLD",
+   "cpv": [
+    "39160000",
+    "39160000"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/505638-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "505825-2026",
+   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair Onderwijs",
+   "buyer": "Stichting Katholiek Onderwijs De Beerzen, Oirschot en Spoordonk",
+   "country": "NLD",
+   "cpv": [
+    "39160000",
+    "39160000"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/505825-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "505830-2026",
+   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair Onderwijs",
+   "buyer": "Stichting Protestants-Christelijk Primair Onderwijs Midden-Brabant",
+   "country": "NLD",
+   "cpv": [
+    "39160000",
+    "39160000"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/505830-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "505889-2026",
+   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair Onderwijs",
+   "buyer": "Stichting Sint Albertus",
+   "country": "NLD",
+   "cpv": [
+    "39160000",
+    "39160000"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/505889-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "505944-2026",
+   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair Onderwijs",
+   "buyer": "Stichting Sint Josephscholen",
+   "country": "NLD",
+   "cpv": [
+    "39160000",
+    "39160000"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/505944-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "505954-2026",
+   "title": "Hollandia – Iskolabútor – DAS Meubilair - Schoolmeubilair Primair Onderwijs",
    "buyer": "Stichting voor PC PO Vechtstreek en Venen",
    "country": "NLD",
    "cpv": [
     "39160000",
-    "39100000"
+    "39160000"
    ],
    "deadline": null,
    "value": null,
    "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502343-2026"
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/505954-2026"
   },
   {
    "category": "Mobilya & Yatak",
-   "id": "502397-2026",
-   "title": "Hollandia – Bútorok – Kantoormeubilair",
-   "buyer": "Borgesius Stichting",
-   "country": "NLD",
-   "cpv": [
-    "39100000",
-    "39100000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502397-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "502423-2026",
+   "id": "506013-2026",
    "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair Onderwijs",
-   "buyer": "Stichting PCBO Baarn - Soest",
-   "country": "NLD",
-   "cpv": [
-    "39160000",
-    "39160000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502423-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "502426-2026",
-   "title": "Hollandia – Iskolabútor – DAS Kantoormeubilair",
-   "buyer": "O.S.G. De Hogeberg",
-   "country": "NLD",
-   "cpv": [
-    "39160000",
-    "39100000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502426-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "502471-2026",
-   "title": "Hollandia – Bútorok – DAS Meubilair - Vergader- en personeelsruimte meubilair",
-   "buyer": "Stichting Akkoord! primair openbaar",
-   "country": "NLD",
-   "cpv": [
-    "39100000",
-    "39160000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502471-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "502533-2026",
-   "title": "Hollandia – Irodabútor – DAS Kantoormeubilair",
-   "buyer": "Stichting Openbaar Primair Onderwijs Winterswijk",
-   "country": "NLD",
-   "cpv": [
-    "39130000",
-    "39100000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502533-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "502561-2026",
-   "title": "Hollandia – Bútorok – DAS Kantoormeubilair",
-   "buyer": "Stichting Zonova",
-   "country": "NLD",
-   "cpv": [
-    "39100000",
-    "39100000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502561-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "502583-2026",
-   "title": "Hollandia – Bútorok – DAS Kantinemeubilair",
-   "buyer": "Stichting Openbaar Primair Onderwijs Rivierenland",
-   "country": "NLD",
-   "cpv": [
-    "39100000",
-    "39100000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502583-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "502619-2026",
-   "title": "Hollandia – Bútorok – DAS Vergader- en Personeelsruimtemeubilair",
-   "buyer": "Stichting Wijzer in onderwijs",
-   "country": "NLD",
-   "cpv": [
-    "39100000",
-    "39100000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502619-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "502634-2026",
-   "title": "Hollandia – Bútorok – DAS Kantoormeubilair",
-   "buyer": "Stichting Openbaar Primair Onderwijs Rivierenland",
-   "country": "NLD",
-   "cpv": [
-    "39100000",
-    "39100000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502634-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "502659-2026",
-   "title": "Hollandia – Bútorok – DAS Kantoormeubilair",
-   "buyer": "Stichting Levvel PI-scholen",
-   "country": "NLD",
-   "cpv": [
-    "39100000",
-    "39100000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502659-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "502681-2026",
-   "title": "Hollandia – Bútorok – DAS Kantoormeubilair",
-   "buyer": "Stichting Wijzer in onderwijs",
-   "country": "NLD",
-   "cpv": [
-    "39100000",
-    "39100000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502681-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "502693-2026",
-   "title": "Hollandia – Bútorok – DAS Vergader- en personeelsruimtemeubilair",
-   "buyer": "Stichting Zonova",
-   "country": "NLD",
-   "cpv": [
-    "39100000",
-    "39100000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502693-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "502725-2026",
-   "title": "Hollandia – Iskolabútor – DAS Vergader- en Personeelsruimtemeubilair",
    "buyer": "Stichting Openbaar Primair Onderwijs Winterswijk",
    "country": "NLD",
    "cpv": [
     "39160000",
-    "39100000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502725-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "502905-2026",
-   "title": "Hollandia – Bútorok – DAS Vergader- en Personeelsruimtemeubilair",
-   "buyer": "Borgesius Stichting",
-   "country": "NLD",
-   "cpv": [
-    "39100000",
-    "39100000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502905-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "502927-2026",
-   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Voortgezet Onderwijs",
-   "buyer": "Stichting Zonova",
-   "country": "NLD",
-   "cpv": [
-    "39160000",
     "39160000"
    ],
    "deadline": null,
    "value": null,
    "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502927-2026"
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/506013-2026"
   },
   {
    "category": "Mobilya & Yatak",
-   "id": "502973-2026",
+   "id": "506051-2026",
    "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair Onderwijs",
-   "buyer": "CBO Meilân",
-   "country": "NLD",
-   "cpv": [
-    "39160000",
-    "39160000"
-   ],
-   "deadline": null,
-   "value": null,
-   "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/502973-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "503033-2026",
-   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Voortgezet Onderwijs",
    "buyer": "Stichting Prisma",
    "country": "NLD",
    "cpv": [
@@ -2723,56 +2356,328 @@
    "deadline": null,
    "value": null,
    "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/503033-2026"
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/506051-2026"
   },
   {
    "category": "Mobilya & Yatak",
-   "id": "503076-2026",
-   "title": "Hollandia – Bútorok – DAS Vergader- en personeelsruimte meubilair",
-   "buyer": "Stichting openbaar primair onderwijs Papendrecht-Sliedrecht",
+   "id": "506080-2026",
+   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair Onderwijs",
+   "buyer": "Stichting Scholen voor Christelijk Basisonderwijs Zeist en omstreken",
    "country": "NLD",
    "cpv": [
-    "39100000",
-    "39100000"
+    "39160000",
+    "39160000"
    ],
    "deadline": null,
    "value": null,
    "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/503076-2026"
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/506080-2026"
   },
   {
    "category": "Mobilya & Yatak",
-   "id": "503144-2026",
-   "title": "Hollandia – Bútorok – DAS Kantinemeubilair",
-   "buyer": "Stichting Sint Josephscholen",
+   "id": "506245-2026",
+   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair Onderwijs",
+   "buyer": "Stichting AURO",
    "country": "NLD",
    "cpv": [
-    "39100000",
-    "39100000"
+    "39160000",
+    "39160000"
    ],
    "deadline": null,
    "value": null,
    "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/503144-2026"
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/506245-2026"
   },
   {
    "category": "Mobilya & Yatak",
-   "id": "503196-2026",
-   "title": "Hollandia – Bútorok – DAS Kantoormeubilair",
+   "id": "506524-2026",
+   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair Onderwijs",
    "buyer": "Stichting Librijn Openbaar Onderwijs",
    "country": "NLD",
    "cpv": [
-    "39100000",
-    "39100000"
+    "39160000",
+    "39160000"
    ],
    "deadline": null,
    "value": null,
    "currency": null,
-   "published": "2026-07-21+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/503196-2026"
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/506524-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "506578-2026",
+   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair Onderwijs",
+   "buyer": "Stichting Algemene Bijzondere Scholengroep Amsterdam",
+   "country": "NLD",
+   "cpv": [
+    "39160000",
+    "39160000"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/506578-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "506758-2026",
+   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair Onderwijs",
+   "buyer": "Stichting Openbaar Primair Onderwijs Rivierenland",
+   "country": "NLD",
+   "cpv": [
+    "39160000",
+    "39160000"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/506758-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "506766-2026",
+   "title": "Hollandia – Iskolabútor – Schoolmeubilair Primair Onderwijs",
+   "buyer": "Stichting Groeisaam Primair Onderwijs",
+   "country": "NLD",
+   "cpv": [
+    "39160000",
+    "39160000"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/506766-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "506767-2026",
+   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair Onderwijs",
+   "buyer": "Stichting openbaar primair onderwijs Papendrecht-Sliedrecht",
+   "country": "NLD",
+   "cpv": [
+    "39160000",
+    "39160000"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/506767-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "506910-2026",
+   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair Onderwijs",
+   "buyer": "Arlanta",
+   "country": "NLD",
+   "cpv": [
+    "39160000",
+    "39160000"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/506910-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "506979-2026",
+   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair Onderwijs",
+   "buyer": "Verion",
+   "country": "NLD",
+   "cpv": [
+    "39160000",
+    "39160000"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/506979-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "506989-2026",
+   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair Onderwijs",
+   "buyer": "Stichting Nestas Scholengroep voor katholiek en openbaar onderwijs",
+   "country": "NLD",
+   "cpv": [
+    "39160000",
+    "39160000"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/506989-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "507002-2026",
+   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair Onderwijs",
+   "buyer": "Stichting Onderwijs Pr1mair",
+   "country": "NLD",
+   "cpv": [
+    "39160000",
+    "39160000"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/507002-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "507003-2026",
+   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair Onderwijs",
+   "buyer": "Stichting IJsselgraaf",
+   "country": "NLD",
+   "cpv": [
+    "39160000",
+    "39160000"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/507003-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "507058-2026",
+   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair onderwijs",
+   "buyer": "Stichting ROBIJN",
+   "country": "NLD",
+   "cpv": [
+    "39160000",
+    "39160000"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/507058-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "507094-2026",
+   "title": "Hollandia – Bútorok – DAS Meubilair - Schoolmeubilair Primair Onderwijs",
+   "buyer": "Nije Gaast",
+   "country": "NLD",
+   "cpv": [
+    "39100000",
+    "39160000"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/507094-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "507157-2026",
+   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair Onderwijs",
+   "buyer": "Stichting Morgenwijzer",
+   "country": "NLD",
+   "cpv": [
+    "39160000",
+    "39160000"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/507157-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "507324-2026",
+   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair Onderwijs",
+   "buyer": "Stichting Katholiek Onderwijs Veluwe-Vallei",
+   "country": "NLD",
+   "cpv": [
+    "39160000",
+    "39160000"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/507324-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "507387-2026",
+   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair Onderwijs",
+   "buyer": "Stichting Zonova",
+   "country": "NLD",
+   "cpv": [
+    "39160000",
+    "39160000"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/507387-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "507429-2026",
+   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair Onderwijs",
+   "buyer": "Stichting Cambium",
+   "country": "NLD",
+   "cpv": [
+    "39160000",
+    "39160000"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/507429-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "507528-2026",
+   "title": "Hollandia – Bútorok – DAS Meubilair - Schoolmeubilair Primair Onderwijs",
+   "buyer": "Stichting Resonans",
+   "country": "NLD",
+   "cpv": [
+    "39100000",
+    "39160000"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/507528-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "507569-2026",
+   "title": "Hollandia – Iskolabútor – DAS Schoolmeubilair Primair Onderwijs",
+   "buyer": "Stichting Wijzer in onderwijs",
+   "country": "NLD",
+   "cpv": [
+    "39160000",
+    "39160000"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-07-22+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/507569-2026"
   }
  ],
  "errors": []
