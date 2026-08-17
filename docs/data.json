@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-16T05:52:13.391278Z",
+ "generated": "2026-08-17T05:59:14.195660Z",
  "items": [
   {
    "category": "Mobilya & Yatak",
@@ -245,6 +245,43 @@
    "currency": "RON",
    "published": "2026-08-10+02:00",
    "url": "https://ted.europa.eu/en/notice/-/detail/551965-2026"
+  },
+  {
+   "category": "Kurumsal Tekstil",
+   "id": "568604-2026",
+   "title": "Franciaország – Padlófényesítő – Fourniture de produits d'entretien, d'hygiène et de désinfection",
+   "buyer": "Centre Hospitalier Tarbes - Lourdes",
+   "country": "FRA",
+   "cpv": [
+    "39812100",
+    "39830000",
+    "39812100",
+    "39812100",
+    "39812100",
+    "39812100",
+    "39812100",
+    "39812100",
+    "39812100",
+    "39831200",
+    "39830000",
+    "39831200",
+    "39830000",
+    "39831200",
+    "39830000",
+    "39831200",
+    "39830000",
+    "39514300",
+    "39830000",
+    "33760000",
+    "39830000",
+    "39220000",
+    "39830000"
+   ],
+   "deadline": "2026-08-21+02:00",
+   "value": null,
+   "currency": null,
+   "published": "2026-08-17+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/568604-2026"
   },
   {
    "category": "Mobilya & Yatak",
@@ -2235,6 +2272,50 @@
    "url": "https://ted.europa.eu/en/notice/-/detail/556008-2026"
   },
   {
+   "category": "Kurumsal Tekstil",
+   "id": "568654-2026",
+   "title": "Csehország – Számítógépek és tartozékaik – Vybavení odborných učeben na SGMO",
+   "buyer": "Střední škola grafiky a médií Olomouc, Střední novosadská 87/53",
+   "country": "CZE",
+   "cpv": [
+    "30200000",
+    "31527260",
+    "32320000",
+    "32340000",
+    "39515000",
+    "32342400",
+    "39515000",
+    "32320000",
+    "31527260",
+    "30200000",
+    "32340000",
+    "32330000",
+    "32420000",
+    "48900000",
+    "39500000",
+    "44212320",
+    "42416100",
+    "51100000",
+    "38652100",
+    "32330000",
+    "32420000",
+    "30231300",
+    "48900000",
+    "31520000",
+    "32420000",
+    "30231300",
+    "30231300",
+    "30232100",
+    "30213200",
+    "32420000"
+   ],
+   "deadline": "2026-09-17+02:00",
+   "value": "354993",
+   "currency": "CZK",
+   "published": "2026-08-17+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/568654-2026"
+  },
+  {
    "category": "Mobilya & Yatak",
    "id": "553551-2026",
    "title": "Lengyelország – Bútorok – Dostawa wyposażenia dla nowego budynku Sądu Rejonowego Katowice-Wschód w Katowicach przy ul. Francuskiej 70a",
@@ -2301,6 +2382,23 @@
    "currency": null,
    "published": "2026-08-11+02:00",
    "url": "https://ted.europa.eu/en/notice/-/detail/555466-2026"
+  },
+  {
+   "category": "Kurumsal Tekstil",
+   "id": "568658-2026",
+   "title": "Franciaország – Ponyva – Location de structures bâchées pour les manifestations et événements de la Ville de Nancy-.",
+   "buyer": "Ville de Nancy",
+   "country": "FRA",
+   "cpv": [
+    "39522110",
+    "39522110",
+    "39522110"
+   ],
+   "deadline": "2026-09-21+01:00",
+   "value": "120000",
+   "currency": "EUR",
+   "published": "2026-08-17+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/568658-2026"
   },
   {
    "category": "Kurumsal Tekstil",
@@ -2521,6 +2619,24 @@
    "currency": null,
    "published": "2026-08-10+02:00",
    "url": "https://ted.europa.eu/en/notice/-/detail/552337-2026"
+  },
+  {
+   "category": "Yol Tuzu",
+   "id": "568277-2026",
+   "title": "Franciaország – Útszóró só – DIM - FOURNITURE ET TRANSPORT DE FONDANTS ROUTIERS POUR LES ROUTES DEPARTEMENTALES DU DEPARTEMENT DU MORBIHAN",
+   "buyer": "Conseil Départemental du Morbihan",
+   "country": "FRA",
+   "cpv": [
+    "34927100",
+    "60100000",
+    "34927100",
+    "60100000"
+   ],
+   "deadline": "2026-09-29+02:00",
+   "value": "1200000",
+   "currency": "EUR",
+   "published": "2026-08-17+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/568277-2026"
   },
   {
    "category": "Kurumsal Tekstil",
