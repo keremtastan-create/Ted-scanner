@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-23T05:54:00.882285Z",
+ "generated": "2026-08-24T06:02:10.124227Z",
  "items": [
   {
    "category": "Mobilya & Yatak",
@@ -213,6 +213,23 @@
    "currency": "PLN",
    "published": "2026-08-18+02:00",
    "url": "https://ted.europa.eu/en/notice/-/detail/569451-2026"
+  },
+  {
+   "category": "Kurumsal Tekstil",
+   "id": "583990-2026",
+   "title": "Lengyelország – Kesztyű – Dostawa w latach 2026-2027 przedmiotów umundurowania i wyekwipowania – pokrowiec na śpiwór i rękawice strzeleckie letnie",
+   "buyer": "3 Regionalna Baza Logistyczna",
+   "country": "POL",
+   "cpv": [
+    "18424000",
+    "39522540",
+    "18424000"
+   ],
+   "deadline": "2026-08-28+02:00",
+   "value": null,
+   "currency": null,
+   "published": "2026-08-24+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/583990-2026"
   },
   {
    "category": "Mobilya & Yatak",
@@ -1872,6 +1889,25 @@
    "url": "https://ted.europa.eu/en/notice/-/detail/575126-2026"
   },
   {
+   "category": "Kurumsal Tekstil",
+   "id": "582048-2026",
+   "title": "Lengyelország – Bútorok – Zakup sprzętu kwaterunkowego (biurowy, koszarowy, polowy)",
+   "buyer": "Rejonowy Zarząd Infrastruktury w Szczecinie",
+   "country": "POL",
+   "cpv": [
+    "39100000",
+    "39130000",
+    "39100000",
+    "39522520",
+    "39100000"
+   ],
+   "deadline": "2026-09-25+02:00",
+   "value": null,
+   "currency": null,
+   "published": "2026-08-24+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/582048-2026"
+  },
+  {
    "category": "Mobilya & Yatak",
    "id": "567625-2026",
    "title": "Franciaország – Bútorok – Achat, livraison et installation de mobilier d'hébergement, scolaire et de bureau pour les services de l'IDEFHI",
@@ -1909,6 +1945,22 @@
    "url": "https://ted.europa.eu/en/notice/-/detail/570385-2026"
   },
   {
+   "category": "Yol Tuzu",
+   "id": "582926-2026",
+   "title": "Csehország – Útszóró só – Posypová sůl pro SÚSPK, p.o. a ÚSKK, a.s. (2026/2027)",
+   "buyer": "Správa a údržba silnic Plzeňského kraje, příspěvková organizace",
+   "country": "CZE",
+   "cpv": [
+    "34927100",
+    "34927100"
+   ],
+   "deadline": "2026-09-25+02:00",
+   "value": "132900000",
+   "currency": "CZK",
+   "published": "2026-08-24+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/582926-2026"
+  },
+  {
    "category": "Kurumsal Tekstil",
    "id": "576397-2026",
    "title": "Franciaország – Szúnyogháló – Fourniture et livraison de moustiquaires imprégnées d’insecticide à longue durée d’action (MIILD)",
@@ -1940,6 +1992,22 @@
    "currency": null,
    "published": "2026-08-21+02:00",
    "url": "https://ted.europa.eu/en/notice/-/detail/580688-2026"
+  },
+  {
+   "category": "Yol Tuzu",
+   "id": "583284-2026",
+   "title": "Románia – Útszóró só – FURNIZARE SARE PENTRU DESZAPEZIRE LOCO BAZA DE PRODUCTIE A PRODUCATORULUI (SALINA) SAU DEPOZITUL FURNIZORULUI",
+   "buyer": "DRUMURI SI PODURI SA SIBIU",
+   "country": "ROU",
+   "cpv": [
+    "34927100",
+    "34927100"
+   ],
+   "deadline": "2026-09-28+03:00",
+   "value": "1250000",
+   "currency": "RON",
+   "published": "2026-08-24+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/583284-2026"
   },
   {
    "category": "Mobilya & Yatak",
