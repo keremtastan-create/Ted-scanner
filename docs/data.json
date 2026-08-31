@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-30T10:35:10.630687Z",
+ "generated": "2026-08-31T11:43:43.149377Z",
  "items": [
   {
    "category": "Mobilya & Yatak",
@@ -138,23 +138,6 @@
    "url": "https://ted.europa.eu/en/notice/-/detail/581281-2026"
   },
   {
-   "category": "Kurumsal Tekstil",
-   "id": "583990-2026",
-   "title": "Lengyelország – Kesztyű – Dostawa w latach 2026-2027 przedmiotów umundurowania i wyekwipowania – pokrowiec na śpiwór i rękawice strzeleckie letnie",
-   "buyer": "3 Regionalna Baza Logistyczna",
-   "country": "POL",
-   "cpv": [
-    "18424000",
-    "39522540",
-    "18424000"
-   ],
-   "deadline": "2026-08-28+02:00",
-   "value": null,
-   "currency": null,
-   "published": "2026-08-24+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/583990-2026"
-  },
-  {
    "category": "Mobilya & Yatak",
    "id": "581953-2026",
    "title": "Németország – Konyha vagy étterem átalakítása – Küchentechnik - Gesamtschule Münster West_Erweiterungsneubau_TP1",
@@ -189,35 +172,6 @@
    "currency": null,
    "published": "2026-08-24+02:00",
    "url": "https://ted.europa.eu/en/notice/-/detail/581953-2026"
-  },
-  {
-   "category": "Mobilya & Yatak",
-   "id": "582509-2026",
-   "title": "Lengyelország – Bútorok – Dostawa mebli biurowych i medycznych w związku z realizacją projektu pn. „Poprawa infrastruktury oraz rozwój opieki ambulatoryjnej i jednodniowej w Instytucie Matki i Dziecka” w ramach FEnIKS.",
-   "buyer": "Instytut Matki i Dziecka",
-   "country": "POL",
-   "cpv": [
-    "39100000",
-    "39130000",
-    "33192000",
-    "39150000",
-    "39290000",
-    "33192410",
-    "39100000",
-    "39100000",
-    "39130000",
-    "39150000",
-    "39290000",
-    "33192000",
-    "39150000",
-    "39290000",
-    "33192410"
-   ],
-   "deadline": "2026-08-28+02:00",
-   "value": null,
-   "currency": null,
-   "published": "2026-08-24+02:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/582509-2026"
   },
   {
    "category": "Kurumsal Tekstil",
@@ -1393,6 +1347,23 @@
    "url": "https://ted.europa.eu/en/notice/-/detail/589880-2026"
   },
   {
+   "category": "Kurumsal Tekstil",
+   "id": "597572-2026",
+   "title": "Csehország – Mosodai és vegytisztító szolgáltatások – „Komplexní prádelenský servis včetně pronájmu prádla pro lokality ONN a.s.“",
+   "buyer": "Oblastní nemocnice Náchod a.s.",
+   "country": "CZE",
+   "cpv": [
+    "98310000",
+    "39518000",
+    "98310000"
+   ],
+   "deadline": "2026-09-24+02:00",
+   "value": null,
+   "currency": null,
+   "published": "2026-08-31+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/597572-2026"
+  },
+  {
    "category": "Mobilya & Yatak",
    "id": "582933-2026",
    "title": "Lengyelország – Irodabútor – Dostawa foteli biurowych, szaf metalowych oraz nadstawek do szaf metalowych do jednostek Izby Administracji Skarbowej w Szczecinie",
@@ -1733,6 +1704,29 @@
    "url": "https://ted.europa.eu/en/notice/-/detail/587431-2026"
   },
   {
+   "category": "Mobilya & Yatak",
+   "id": "588151-2026",
+   "title": "Lengyelország – Különféle bútorok és felszerelések – Dostawa różnego sprzętu kwaterunkowego – w 8 pakietach",
+   "buyer": "Rejonowy Zarząd Infrastruktury w Lublinie",
+   "country": "POL",
+   "cpv": [
+    "39150000",
+    "39150000",
+    "39150000",
+    "39150000",
+    "39150000",
+    "39150000",
+    "39150000",
+    "39150000",
+    "39150000"
+   ],
+   "deadline": "2026-09-25+02:00",
+   "value": null,
+   "currency": null,
+   "published": "2026-08-26+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/588151-2026"
+  },
+  {
    "category": "Yol Tuzu",
    "id": "582926-2026",
    "title": "Csehország – Útszóró só – Posypová sůl pro SÚSPK, p.o. a ÚSKK, a.s. (2026/2027)",
@@ -1899,6 +1893,40 @@
    "url": "https://ted.europa.eu/en/notice/-/detail/594778-2026"
   },
   {
+   "category": "Yol Tuzu",
+   "id": "598583-2026",
+   "title": "Franciaország – Viteldíj-automaták – Fourniture et livraison de badges télépéage",
+   "buyer": "SOCIETE CONCESSIONNAIRE FRANCAISE POUR LA CONSTRUCTION ET L'EXPLOITATION DU TUNNEL ROUTIER SOUS LE MONT-BLANC",
+   "country": "FRA",
+   "cpv": [
+    "30144400",
+    "34927000",
+    "30144400",
+    "34927000"
+   ],
+   "deadline": "2026-09-30+02:00",
+   "value": "0.00",
+   "currency": "EUR",
+   "published": "2026-08-31+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/598583-2026"
+  },
+  {
+   "category": "Yol Tuzu",
+   "id": "599131-2026",
+   "title": "Franciaország – Útszóró só – Maintenance de la voirie métropolitaine. Fourniture de sel de déneigement.-.",
+   "buyer": "Métropole du Grand Nancy",
+   "country": "FRA",
+   "cpv": [
+    "34927100",
+    "34927100"
+   ],
+   "deadline": "2026-10-02+01:00",
+   "value": "2000000",
+   "currency": "EUR",
+   "published": "2026-08-31+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/599131-2026"
+  },
+  {
    "category": "Mobilya & Yatak",
    "id": "582214-2026",
    "title": "Hollandia – Gyógyászati segédeszközök – A09.44.2026 ROK aangepaste keukens",
@@ -1991,6 +2019,36 @@
    "currency": null,
    "published": "2026-08-26+02:00",
    "url": "https://ted.europa.eu/en/notice/-/detail/589726-2026"
+  },
+  {
+   "category": "Kurumsal Tekstil",
+   "id": "597731-2026",
+   "title": "Csehország – Egyéni felszerelés – Tlumoky 2016",
+   "buyer": "Česká republika - Ministerstvo obrany",
+   "country": "CZE",
+   "cpv": [
+    "35810000",
+    "19212510",
+    "18931100",
+    "39522110",
+    "39522200",
+    "18900000",
+    "44530000",
+    "19520000",
+    "35810000",
+    "18931100",
+    "19212510",
+    "39522110",
+    "39522200",
+    "18900000",
+    "44530000",
+    "19520000"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-08-31+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/597731-2026"
   },
   {
    "category": "Mobilya & Yatak",
