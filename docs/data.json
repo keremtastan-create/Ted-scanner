@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T10:39:03.658605Z",
+ "generated": "2026-09-28T11:51:54.530594Z",
  "items": [
   {
    "category": "Mobilya & Yatak",
@@ -1083,6 +1083,72 @@
    "currency": null,
    "published": "2026-09-21+02:00",
    "url": "https://ted.europa.eu/en/notice/-/detail/648305-2026"
+  },
+  {
+   "category": "Kurumsal Tekstil",
+   "id": "666839-2026",
+   "title": "Lengyelország – Orvosi fogyóeszközök – Dostawa sprzętu jednorazowego użytku",
+   "buyer": "Samodzielny Publiczny Zakład Opieki Zdrowotnej - Szpital Uniwersytecki nr 2 im. dr Jana Biziela w Bydgoszczy",
+   "country": "POL",
+   "cpv": [
+    "33140000",
+    "33140000",
+    "33140000",
+    "33141310",
+    "33194000",
+    "33141200",
+    "33141200",
+    "33141200",
+    "33141200",
+    "33141200",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33141400",
+    "33141320",
+    "33140000",
+    "33141323",
+    "33141320",
+    "33141310",
+    "33141310",
+    "33141220",
+    "33140000",
+    "33140000",
+    "33141220",
+    "18424300",
+    "33141420",
+    "33140000",
+    "33141200",
+    "33141000",
+    "33141000",
+    "33140000",
+    "35113400",
+    "39512300",
+    "39512000",
+    "33141220",
+    "33199000",
+    "33199000",
+    "33140000",
+    "33199000",
+    "33140000",
+    "33140000",
+    "38412000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33140000",
+    "33141610",
+    "39812000"
+   ],
+   "deadline": "2026-10-07+02:00",
+   "value": null,
+   "currency": null,
+   "published": "2026-09-28+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/666839-2026"
   },
   {
    "category": "Mobilya & Yatak",
@@ -2388,6 +2454,37 @@
    "url": "https://ted.europa.eu/en/notice/-/detail/663258-2026"
   },
   {
+   "category": "Kurumsal Tekstil",
+   "id": "663821-2026",
+   "title": "Lengyelország – Oktatási szimulátorok – Szkolenie młodzieży w dziedzinie zagrożeń związanych z pożarami, klęskami żywiołowymi, katastrofami – dostawa symulatorów i sprzętu szkoleniowego",
+   "buyer": "Komenda Wojewódzka Państwowej Straży Pożarnej w Kielcach",
+   "country": "POL",
+   "cpv": [
+    "34152000",
+    "39522530",
+    "31122000",
+    "35112100",
+    "37414000",
+    "39522530",
+    "30231300",
+    "34150000",
+    "34150000",
+    "31122000",
+    "37400000",
+    "37414000",
+    "35112100",
+    "30213100",
+    "32322000",
+    "34152000",
+    "34152000"
+   ],
+   "deadline": "2026-10-26+01:00",
+   "value": null,
+   "currency": null,
+   "published": "2026-09-28+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/663821-2026"
+  },
+  {
    "category": "Mobilya & Yatak",
    "id": "649008-2026",
    "title": "Németország – Iskolabútor – Rahmenvereinbarung zur Lieferung von Schulmöbeln Los 1 Hersteller ASS",
@@ -2718,6 +2815,40 @@
    "url": "https://ted.europa.eu/en/notice/-/detail/652013-2026"
   },
   {
+   "category": "Kurumsal Tekstil",
+   "id": "665277-2026",
+   "title": "Románia – Műtőlepedők – Acord cadru de furnizare Cearşafuri pentru săli de operaţie",
+   "buyer": "Spitalul Clinic Judetean de Urgenta Targu.Mures",
+   "country": "ROU",
+   "cpv": [
+    "39518200",
+    "39518200"
+   ],
+   "deadline": "2026-10-27+02:00",
+   "value": null,
+   "currency": null,
+   "published": "2026-09-28+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/665277-2026"
+  },
+  {
+   "category": "Yol Tuzu",
+   "id": "666846-2026",
+   "title": "Lengyelország – Útszóró só – SVA/4620-585/2026: Zakup soli drogowej i chlorku magnezu",
+   "buyer": "AMW SINEVIA Sp. z o.o.",
+   "country": "POL",
+   "cpv": [
+    "34927100",
+    "24960000",
+    "34927100",
+    "24960000"
+   ],
+   "deadline": "2026-10-28+01:00",
+   "value": null,
+   "currency": null,
+   "published": "2026-09-28+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/666846-2026"
+  },
+  {
    "category": "Yol Tuzu",
    "id": "660323-2026",
    "title": "Szlovákia – Útszóró só – Chemický posypový materiál na posyp ciest vrátane dopravy",
@@ -2758,6 +2889,42 @@
    "currency": null,
    "published": "2026-09-22+02:00",
    "url": "https://ted.europa.eu/en/notice/-/detail/651065-2026"
+  },
+  {
+   "category": "Kurumsal Tekstil",
+   "id": "666229-2026",
+   "title": "Románia – Műtőlepedők – Acord cadru de furnizare Cearceafuri pentru Sali de operatii",
+   "buyer": "Spitalul Clinic Judetean de Urgenta Targu.Mures",
+   "country": "ROU",
+   "cpv": [
+    "39518200",
+    "39518200",
+    "39518200",
+    "39518200",
+    "39518200"
+   ],
+   "deadline": "2026-10-29+02:00",
+   "value": "1206000",
+   "currency": "RON",
+   "published": "2026-09-28+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/666229-2026"
+  },
+  {
+   "category": "Kurumsal Tekstil",
+   "id": "664698-2026",
+   "title": "Franciaország – Sátor – Location et installation de structures évènementielles (CTS)",
+   "buyer": "CITIA",
+   "country": "FRA",
+   "cpv": [
+    "39522530",
+    "39522530",
+    "39522530"
+   ],
+   "deadline": "2026-10-30+02:00",
+   "value": "1520000.00",
+   "currency": "EUR",
+   "published": "2026-09-28+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/664698-2026"
   },
   {
    "category": "Mobilya & Yatak",
@@ -2855,6 +3022,23 @@
    "currency": null,
    "published": "2026-09-25+02:00",
    "url": "https://ted.europa.eu/en/notice/-/detail/663366-2026"
+  },
+  {
+   "category": "Kurumsal Tekstil",
+   "id": "664175-2026",
+   "title": "Magyarország – Takaró és útitakaró (pléd) – Egyéb textilipari késztermékek - DBR",
+   "buyer": "Ipoly Cipőgyár Termelő és Szolgáltató Kft.",
+   "country": "HUN",
+   "cpv": [
+    "39511000",
+    "39511000",
+    "39512100"
+   ],
+   "deadline": null,
+   "value": null,
+   "currency": null,
+   "published": "2026-09-28+02:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/664175-2026"
   },
   {
    "category": "Mobilya & Yatak",
