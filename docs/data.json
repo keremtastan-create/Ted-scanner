@@ -1,53 +1,6 @@
 {
- "generated": "2026-11-15T12:53:23.370437Z",
+ "generated": "2026-11-16T13:53:02.668914Z",
  "items": [
-  {
-   "category": "Mobilya & Yatak",
-   "id": "779209-2026",
-   "title": "Szlovákia – Játszótéri felszerelés – Eko park Voderady",
-   "buyer": "Obec Voderady",
-   "country": "SVK",
-   "cpv": [
-    "37535200",
-    "45112711",
-    "45233161",
-    "45112710",
-    "37535200",
-    "45311000",
-    "77300000",
-    "45233161",
-    "77310000",
-    "45232120",
-    "45316100",
-    "45112711",
-    "77300000",
-    "37535200",
-    "45311000",
-    "45233161",
-    "45111200",
-    "45112000",
-    "45340000",
-    "77310000",
-    "77313000",
-    "77315000",
-    "03452000",
-    "45232120",
-    "37410000",
-    "03100000",
-    "39113600",
-    "03000000",
-    "39224340",
-    "03100000",
-    "44112100",
-    "35125300",
-    "45316100"
-   ],
-   "deadline": "2026-11-13+02:00",
-   "value": "327590.43",
-   "currency": "EUR",
-   "published": "2026-11-10+01:00",
-   "url": "https://ted.europa.eu/en/notice/-/detail/779209-2026"
-  },
   {
    "category": "Kurumsal Tekstil",
    "id": "777994-2026",
@@ -149,6 +102,26 @@
    "currency": "PLN",
    "published": "2026-11-09+01:00",
    "url": "https://ted.europa.eu/en/notice/-/detail/776402-2026"
+  },
+  {
+   "category": "Kurumsal Tekstil",
+   "id": "795514-2026",
+   "title": "Lengyelország – Mosodai és vegytisztító szolgáltatások – KOMPLEKSOWE ŚWIADCZENIE USŁUG PRALNICZYCH I DEZYNFEKCYJNYCH WRAZ Z WYNAJMEM BIELIZNY ORAZ WDROŻENIE SYSTEMU RFID UMOŻLIWIAJĄCEGO IDENTYFIKACJĘ BIELIZNY ZA POMOCĄ FAL RADIOWYCH",
+   "buyer": "Mazowiecki Szpital Specjalistyczny Sp. z o. o.",
+   "country": "POL",
+   "cpv": [
+    "98310000",
+    "98315000",
+    "98311000",
+    "98393000",
+    "39518000",
+    "98310000"
+   ],
+   "deadline": "2026-11-18+01:00",
+   "value": null,
+   "currency": null,
+   "published": "2026-11-16+01:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/795514-2026"
   },
   {
    "category": "Mobilya & Yatak",
@@ -1806,6 +1779,29 @@
    "currency": null,
    "published": "2026-11-13+01:00",
    "url": "https://ted.europa.eu/en/notice/-/detail/790294-2026"
+  },
+  {
+   "category": "Mobilya & Yatak",
+   "id": "783383-2026",
+   "title": "Franciaország – Háztartási bútor – Fourniture et livraison de mobilier et d’appareils électroménagers au profit des entités soutenues par la Direction du commissariat des forces armées en Guyane",
+   "buyer": "DICOM Guyane",
+   "country": "FRA",
+   "cpv": [
+    "39140000",
+    "39700000",
+    "39143112",
+    "39700000",
+    "39700000",
+    "39143112",
+    "39143112",
+    "39140000",
+    "39140000"
+   ],
+   "deadline": "2026-12-16-03:00",
+   "value": "3200000",
+   "currency": "EUR",
+   "published": "2026-11-11+01:00",
+   "url": "https://ted.europa.eu/en/notice/-/detail/783383-2026"
   },
   {
    "category": "Mobilya & Yatak",
